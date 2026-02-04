@@ -6,6 +6,7 @@ public class Calculadora {
     double div;
     double porcen;
     double raizQuadrada;
+    double teste;
 
     double somar() {
         System.out.print("\n1st value: ");
